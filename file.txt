@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>HELLO WORLD </h1> 
+<p> Git command that downloads changes from a remote repository to your local repository. It does not merge the changes into your local branch, but it updates the information about the remote repository so you can see what changes have been made.
+
+When you run git fetch, Git retrieves the latest changes from the remote repository, including new branches and commits. These changes are stored in your local repository, but your local working directory and branches remain unchanged.
+</p>
+</body>
+</html>
